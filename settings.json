@@ -2,8 +2,8 @@
   "name": "AFK Bot",
   "bot-account": {
     "username": "BOT24/7",
-    "password": "",
-    "type": "offline"
+    "password": "123123123",
+    "type": "online"
   },
   "server": {
     "ip": "Klasa4444bbbb.aternos.me",
